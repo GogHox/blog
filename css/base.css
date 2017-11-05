@@ -1,0 +1,15 @@
+*{ padding: 0px; margin: 0px; }
+
+.w {
+    margin: 0px auto;
+    width: 1024px;
+}
+
+.top {
+    text-align: center;
+    background-color: #cc6011;
+    height: 100px;
+}
+.top h1 {
+    font: 600 30px/100px "思源宋体 CN";
+}
